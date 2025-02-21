@@ -1,0 +1,145 @@
+/*fonts*/
+.darumadrop-one-regular {
+    font-family: "Darumadrop One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.playwrite-it-moderna-yeah {
+  font-family: "Playwrite IT Moderna", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+  
+.grechen-fuemen-regular {
+    font-family: "Grechen Fuemen", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  .exo-2-yep {
+    font-family: "Exo 2", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.delicious-handrawn-regular {
+  font-family: "Delicious Handrawn", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.anton-regular {
+    font-family: "Anton", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+i {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#coll{
+  border-radius: 10px;
+  border: 5px solid #003092;
+}
+
+#foot{
+  margin-top: 0; /* take available whitespace */
+  margin-bottom: -10px;      /* remove bottom whitespace */
+  padding-bottom: 5px;
+  height: 100px; 
+  background-color: #3D8D7A;
+}
+/*intro image*/
+#imgcon{
+    background-image: url(./image/tech.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 660px;
+}
+/*about*/
+#carou{
+    border-radius: 10px;
+}
+
+/*new product*/
+#newtext{
+    border-radius: 20px;
+    background-color: #C5BAFF;
+    width: 500px;
+    font-family: "Playwrite IT Moderna", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+#pro{
+  border-radius: 20px;
+    background-color: #C5BAFF;
+    width: 500px;
+    font-family: "Playwrite IT Moderna", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+#newpro1{
+    background-color: #F4F8D3;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+#newpro2{
+    background-color: #C4D9FF;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+#newpro3{
+    background-color: #A6F1E0;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+/*price*/
+#pricetext{
+    border-radius: 20px;
+    background-color: #C5BAFF;
+    width: 500px;
+    font-family: "Playwrite IT Moderna", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+#cardmargin{
+    margin: 10px;
+    border-radius: 10px;
+    border: solid 2px;
+}
+#btncard{
+    width: 100%;
+    font-family: "Anton", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#cardco1{
+  color: #3674B5;
+}
+#cardco2{
+  color: #5D8736;
+}
+#cardco3{
+  color: #FFD65A;
+}
+
+/*foot*/
+#foot{
+    background-color: red;
+}
