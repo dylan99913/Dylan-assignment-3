@@ -60,7 +60,7 @@ i {
     background-image: url(./image/tech.jpg);
     text-align: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-size: cover;
     height: 660px;
 }
