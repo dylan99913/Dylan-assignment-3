@@ -42,19 +42,13 @@ i {
     margin-left: 10px;
     margin-right: 10px;
 }
-
+/*navbar*/
 #coll{
   border-radius: 10px;
   border: 5px solid #003092;
 }
 
-#foot{
-  margin-top: 0; /* take available whitespace */
-  margin-bottom: -10px;      /* remove bottom whitespace */
-  padding-bottom: 5px;
-  height: 100px; 
-  background-color: #3D8D7A;
-}
+
 /*intro image*/
 #imgcon{
     background-image: url(./image/tech.jpg);
@@ -140,6 +134,11 @@ i {
 }
 
 /*foot*/
+
 #foot{
-    background-color: red;
+  margin-top: 0; /* take available whitespace */
+  margin-bottom: -10px;      /* remove bottom whitespace */
+  padding-bottom: 5px;
+  height: 100px; 
+  background-color: #3D8D7A;
 }
